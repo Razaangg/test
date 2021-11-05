@@ -16,3 +16,5 @@ Asia/Jakarta
 lagendspro@gmail.com
 
 https://dashboard.ngrok.com/get-started/setup
+
+https://bin.equinox.io/c/4VmDzA7iaHb/ngrok-stable-linux-amd64.zip
