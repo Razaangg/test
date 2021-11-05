@@ -14,3 +14,5 @@ bash <(curl -s https://pterodactyl-installer.se)
 
 Asia/Jakarta
 lagendspro@gmail.com
+
+https://dashboard.ngrok.com/get-started/setup
