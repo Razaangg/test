@@ -3,3 +3,5 @@ wget -O install.sh http://www.aapanel.com/script/install-ubuntu_6.0_en.sh && sud
 sudo lshw -c memory
 
 Razaan1627
+
+jbcE
