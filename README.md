@@ -18,3 +18,5 @@ lagendspro@gmail.com
 https://dashboard.ngrok.com/get-started/setup
 
 https://bin.equinox.io/c/4VmDzA7iaHb/ngrok-stable-linux-amd64.zip
+
+./ngrok authtoken 1s8s4Md000R5fphD1AVaQuZZcCA_6btDovZZRvBfaj2AHTxpT
