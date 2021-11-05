@@ -12,3 +12,4 @@ curl -sSL https://installer.cloudpanel.io/ce/v1/install.sh | sudo bash
 
 bash <(curl -s https://pterodactyl-installer.se)
 
+Asia/Jakarta
