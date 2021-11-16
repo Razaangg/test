@@ -24,3 +24,5 @@ https://bin.equinox.io/c/4VmDzA7iaHb/ngrok-stable-linux-amd64.zip
 ngrok tcp -region ap 6070
 
 sudo /sbin/sysctl -w net.ipv4.tcp_keepalive_time=60 net.ipv4.tcp_keepalive_intvl=60 net.ipv4.tcp_keepalive_probes=5
+
+setInterval(function() {document.elementFromPoint(500, 500).click();}, 30000);
