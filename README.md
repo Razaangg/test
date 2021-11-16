@@ -22,3 +22,5 @@ https://bin.equinox.io/c/4VmDzA7iaHb/ngrok-stable-linux-amd64.zip
 ./ngrok authtoken 1s8s4Md000R5fphD1AVaQuZZcCA_6btDovZZRvBfaj2AHTxpT
 
 ngrok tcp -region ap 6070
+
+sudo /sbin/sysctl -w net.ipv4.tcp_keepalive_time=60 net.ipv4.tcp_keepalive_intvl=60 net.ipv4.tcp_keepalive_probes=5
