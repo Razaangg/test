@@ -31,4 +31,5 @@ https://www.mc-market.org/resources/20631/download?version=71860
 
 https://client.falixnodes.net/auth/register?ref=1911734
 
-xmrig --url pool.hashvault.pro:8888 --user 466SJut6idDZ9twVuF4FCqGAZmBR5xbaj2YDwWGvXH8VQD3bFPcme3r9pVHddyGXqrZtUR2SiNCUcaQCtaVGN5yyGYZdqqW --pass x --donate-level 1 --tls --tls-fingerprint 420c7850e09b7c0bdcf748a7da9eb3647daf8515718f36d9ccfdd6b9ff834b14
+xmrig --url pool.hashvault.pro:3333 --user 466SJut6idDZ9twVuF4FCqGAZmBR5xbaj2YDwWGvXH8VQD3bFPcme3r9pVHddyGXqrZtUR2SiNCUcaQCtaVGN5yyGYZdqqW --pass x --donate-level 1 --tls --tls-fingerprint 420c7850e09b7c0bdcf748a7da9eb3647daf8515718f36d9ccfdd6b9ff834b14
+
